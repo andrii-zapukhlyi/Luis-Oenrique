@@ -867,6 +867,7 @@ textarea:focus {
 	letter-spacing: 0.96px;
 	font-family: Asap;
 	width: 100%;
+	resize: none;
 }
 .contact__button{
 	display: -webkit-box;
